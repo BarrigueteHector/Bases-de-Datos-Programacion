@@ -6,8 +6,9 @@ Al igual que un lenguaje de programación de alto nivel, ORACLE cuenta con su pr
 
 Antecedentes
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Conocimientos de algún lenguaje de alto nivel (Python, Java, C, etc.).
-[Repositorios de Bases de Datos](https://github.com/BarrigueteHector/Bases-de-Datos-Repositorios).
+- Conocimientos de algún lenguaje de alto nivel (Python, Java, C, etc.).
+
+- [Repositorios de Bases de Datos](https://github.com/BarrigueteHector/Bases-de-Datos-Repositorios).
 
 Desarrollo
 --------------------------------------------------------------------------------------------------------------------------------------------------------
